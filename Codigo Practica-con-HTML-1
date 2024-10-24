@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+<title> Python / DJango</title>
+</head>
+<body>
+
+<h1>Practica con HTML</h1>
+<p>Nombre: Ruvalcaba Valverde Miguel Angel</p>
+<p>Grupo: 3W</p>
+<p>Numero de control: 23308051281212</p>
+<a href="https://www.google.com.mx/?hl=es">--Google--</a>
+
+</body>
+</html>
